@@ -1,0 +1,44 @@
+body{
+   
+    display: flex;
+  
+
+}
+.main{
+    display: flex;
+    
+}
+.container1{
+    background-color: rgb(255, 255, 255);
+    border: 15px solid rgb(4, 0, 244);
+    
+    
+}
+.header{
+   color: rgb(126, 126, 126);
+   padding-top: 15px;
+   font-size: medium;
+  
+  
+}
+.subheader{
+    text-shadow: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: xx-large;
+    color: rgb(0, 0, 0);
+}
+.box{
+display: flex ;
+
+}
+.content{
+    text-align: start;
+    padding-right: 15px;
+  
+}
+.button{
+    background-color: rgb(9, 245, 249);
+   
+  
+}
